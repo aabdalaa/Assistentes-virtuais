@@ -1,0 +1,26 @@
+pip install speech_recognition
+pip install webbrowser
+pip install os
+pip install smtplib
+pip install sys
+pip install time
+pip install requests
+pip install pygame
+pip install pyaudio
+cd Desktop\EDITH\Necessary\pyaudio
+pip install PyAudio-0.2.11-cp310-cp310-win_amd64.whl
+pip install PyAudio-0.2.11-cp310-cp310-win32.whl
+pip install pyautogui
+pip install pyperclip
+pip install wmi
+pip3 install SpeechRecognition
+pip3 install pyttsx3
+pip3 install datetime
+pip3 install espeakng
+pip3 install psutil
+pip3 install python-vlc 
+pip3 install vosk
+pip3 install jsonlib-python3
+pip3 install plyer
+pip3 install wikipedia
+pip3 install gTTS

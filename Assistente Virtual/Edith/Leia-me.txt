@@ -1,0 +1,31 @@
+Edith - Assistente Virtual para Windows
+
+Bem-vindo ao Edith, seu assistente virtual para Windows, desenvolvido em Python.
+
+Instruções de Uso:
+
+1. Instalação:
+   - Certifique-se de ter o Python instalado em seu sistema.
+   - Baixe ou clone este repositório em sua máquina.
+
+2. Instalação de Dependências:
+   - Execute o instalador.cmd para instalar as dependências necessárias.
+   - As dependências estão localizadas na pasta "Requirement".
+
+3. Execução:
+   - Navegue até o diretório onde o Edith está localizado.
+   - Execute o arquivo "edith.py" com o comando `python edith.py` no terminal.
+
+4. Interagindo com o Edith:
+   - Use as palavras-chave de ativação para chamar o assistente.
+
+5. Personalização:
+   - Personalize e expanda o Edith de acordo com suas necessidades.
+   - Adicione novos comandos ou integre APIs de terceiros.
+
+6. Contribuição:
+   - Para relatar bugs ou contribuir com melhorias, abra problemas ou envie solicitações de pull no GitHub.
+
+Para mais informações e suporte, visite o repositório oficial.
+
+Aproveite o Edith e deixe-o simplificar suas tarefas diárias no Windows!

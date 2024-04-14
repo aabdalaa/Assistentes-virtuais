@@ -1,0 +1,38 @@
+Para que tudo funcione, clique com o botão direito do mouse na pasta aberta e clique em abrir terminal.
+
+logo em seguida dê o comando abaixo:
+
+pip install -r requirements.txt
+
+Se algum erro ocorrer rode o terminal manualmente, copie e cole no terminal o código abaixo:
+
+apt install espeak
+apt update espeak
+apt upgrade espeak
+apt install vlc
+apt update vlc
+apt upgrade vlc
+pip install speech_recognition
+pip install webbrowser
+pip install os
+pip install smtplib
+pip install sys
+pip install time
+pip install requests
+pip install pygame
+pip install pyaudio
+pip install pyautogui
+pip install pyperclip
+pip install wmi
+pip install SpeechRecognition
+pip install pyttsx3
+pip install datetime
+pip install espeakng
+pip install psutil
+pip install python-vlc 
+pip install vosk
+pip install jsonlib-python3
+pip install plyer
+pip install wikipedia
+pip install gTTS
+pip install pyqt5

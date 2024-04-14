@@ -1,0 +1,30 @@
+Jarvis - Assistente Virtual para Linux
+
+Este é o Jarvis, um assistente virtual para Linux desenvolvido em Python.
+
+Instruções de Uso:
+
+1. Instalação:
+   - Certifique-se de ter o Python instalado em seu sistema.
+   - Baixe ou clone este repositório em sua máquina.
+
+2. Dependências:
+   - Instale as dependências listadas no arquivo "leia-me.txt"
+
+3. Execução:
+   - Navegue até o diretório onde o Jarvis está localizado.
+   - Execute o arquivo "jarvis.py" com o comando `python jarvis.py` no terminal.
+
+4. Interagindo com o Jarvis:
+   - Use as palavras-chave de ativação para chamar o assistente.
+
+5. Personalização:
+   - Personalize e expanda o Jarvis de acordo com suas necessidades.
+   - Adicione novos comandos ou integre APIs de terceiros.
+
+6. Contribuição:
+   - Para relatar bugs ou contribuir com melhorias, abra problemas ou envie solicitações de pull no GitHub.
+
+Para mais informações e suporte, visite o repositório oficial.
+
+Aproveite o Jarvis e deixe-o simplificar suas tarefas diárias no Linux!
