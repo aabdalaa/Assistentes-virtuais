@@ -1,4 +1,4 @@
-## Assistentes Virtuais em Python
+## 💻 Assistentes Virtuais em Python
 
 Projeto iniciado em **2023** como estudo e desenvolvimento de um **assistente virtual multiplataforma** (Linux/Windows), inspirado na ficção mas com aplicações práticas para o dia a dia.
 
